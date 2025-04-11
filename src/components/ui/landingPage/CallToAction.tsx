@@ -3,7 +3,7 @@ import Button from '@/components/ui/Button'
 
 const CallToAction = () => {
     return (
-        <section className="py-16 bg-[#25066D]/90 text-white text-center relative ">
+        <section className="py-16 px-6 bg-[#25066D]/90 text-white text-center relative ">
             <div className='absolute -z-0  left-0 w-full h-full top-0'>
                 <Image src="/images/bbg.jpeg"
                     width={100}

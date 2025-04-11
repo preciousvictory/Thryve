@@ -53,7 +53,7 @@ const NavMobile = () => {
     }, [isOpen]);
 
     return (
-        <div className="NavMobile md:hidden bg-white shadow-xl flex flex-row justify-between items-center mx-8 my-6 relative" ref={navRef}>
+        <div className="NavMobile md:hidden bg-white shadow-xl flex flex-row justify-between items-center px-8 py-6 relative" ref={navRef}>
             <div>
                 <Link href="/" className="flex flex-row items-center justify-baseline">
                     <div className="w-[40px] h-[40px] bg-[#D8C9FC]"></div>

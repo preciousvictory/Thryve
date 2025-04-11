@@ -7,7 +7,7 @@ const Footer = () => {
         <footer className="bg-white border-t py-6 px-12 text-sm text-center text-[var(--neutral)]" id="footer">
             <div className="py-8 flex flex-col md:flex-row justify-between items-start">
                 <div className="flex flex-col w-4/5 gap-8 mb-4 md:mb-0 text-left items-start justify-baseline">
-                    <div className="w-1/2">
+                    <div className="lg:w-1/2">
                         <Link href="/" className="flex items-center justify-baseline mb-4">
                             <div className="w-[100px] h-[40px] bg-[#D8C9FC]"></div>
                         </Link>

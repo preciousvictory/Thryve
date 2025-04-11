@@ -22,7 +22,7 @@ const Hero = () => {
                     </div>
                 </div>
                 {/* Hero Image */}
-                <div className="lg:mt-8 max-w-4xl mx-auto lg:w-1/3 flex items-start -my-6 p-3 lg:p-0">
+                <div className="p-3 mx-3 w-[80%] flex flex-row items-start lg:mt-8 lg:max-w-4xl lg:w-1/3 lg:-my-6 lg:p-0">
                     <Image src="/images/HeroImage.svg"
                         width={100}
                         height={100}
